@@ -7,7 +7,7 @@ const Hero = (props) => {
       <div className={classes.image}>
         <Image src="/images/site/img.jpg" alt="An image showing Bishko" width={400} height={400} />
       </div>
-      <h1>Hi, I`m a Bishko!</h1>
+      <h1>Hi, I&apos;m a Bishko!</h1>
       <p>
         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus
         inventore quisquam ipsum earum magnam nobis!
